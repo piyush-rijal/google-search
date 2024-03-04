@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
 function Images() {
   return (
     <div>
-      Images
+      {/* {results?.results?.map(({ title }, index) => (
+        <div key={index}>{title}</div>
+      ))} */}
     </div>
-  )
+  );
 }
 
-export default Images
+export default Images;

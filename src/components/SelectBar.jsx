@@ -6,7 +6,7 @@ function SelectBar() {
     <div>
       <ul className="flex gap-8 text-base font-bold">
         <li>
-          <NavLink to={"/all"} className="dark:text-secondary">
+          <NavLink to={"/search"} className="dark:text-secondary">
             All
           </NavLink>
         </li>
